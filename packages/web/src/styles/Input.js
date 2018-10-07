@@ -9,7 +9,7 @@ const input = css`
 	width: 100%;
 	height: 42px;
 	padding: 8px 12px;
-	border: 1px solid #ccc;
+	border: 0px solid #ccc;
 	background-color: #fafafa;
 	font-size: 0.9rem;
 	outline: none;
